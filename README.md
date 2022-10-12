@@ -1,1 +1,1 @@
-# c-programming-medium
+# c-programming- day 2
